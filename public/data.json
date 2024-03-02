@@ -1,0 +1,162 @@
+
+    [
+      {
+        "id":"1",
+        "picture": "https://imagetolink.com/ib/0wCDRQKjFZ.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "#BBC4F6",
+        "card_bg": "#DCE5FA",
+        "text_button_bg": "#0052FF",
+        "description": "Help provide clean and safe drinking water to communities in need. Your contribution will make a significant impact on improving lives.",
+        "price": "$220",
+         "bio":"Hygenic Water",
+         "rectangle":"https://imagetolink.com/ib/QsLxcbi4s0.png"
+         
+        
+        
+      },
+      {
+        "id":"2",
+        "picture": "https://imagetolink.com/ib/lDY2hvAQYF.png",
+        "title": "Good educationl",
+        "category": "Education",
+        "category_bg": "#F4B9BB",
+        "card_bg": "#FFDEDF",
+        "text_button_bg": "#FF444A",
+        "description": "Support our mission to ensure quality education for every child. Your donation will help build schools and provide educational resources.",
+        "price": "$290",
+        "bio":"Good Education",
+        "rectangle":"https://imagetolink.com/ib/cbllx34cNg.png"
+      },
+      {
+        "id":"3",
+        "picture": "https://imagetolink.com/ib/unVVRWINJs.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#B9DC9D",
+        "card_bg": "#C8E3B3",
+        "text_button_bg": "#79C23F",
+        "description": "Help provide warm clothing to those in need during the winter season. Your donation will bring comfort and protection against the cold..",
+        "price": "$390",
+        "bio":"Warm Clothing",
+        "rectangle":"https://imagetolink.com/ib/Tl3xdtx8OA.png"
+      },
+      { 
+        "id":"4",
+        "picture": "https://imagetolink.com/ib/uZ9opPvPQs.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg": "#FBCBBC",
+        "card_bg": "#FDE9E3",
+        "text_button_bg": "#F87147",
+        "description": "Contribute to ending hunger by supporting nutritious food distribution programs. Your donation will provide meals for families in need.",
+        "price": "$350",
+        "bio":"Better Quality Food",
+        "rectangle":"https://imagetolink.com/ib/q6ZZlrVGHT.png"
+      },
+      {
+        "id":"5",
+        "picture": "https://imagetolink.com/ib/uZ9opPvPQs.png",
+        "title": "Community Kitchen Project",
+        "category": "Food",
+        "category_bg": "#FBCBBC",
+        "card_bg": "#FDE9E3",
+        "text_button_bg": "#F87147",
+        "description": "Contribute to community kitchens providing meals to those in need. Your donation will support sustainable and accessible food solutions.",
+        "price": "$240",
+        "bio":"Hygenic Kitchen",
+        "rectangle":"https://imagetolink.com/ib/q6ZZlrVGHT.png"
+      },
+      {
+        "id":"6",
+        "picture": "https://imagetolink.com/ib/unVVRWINJs.png",
+        "title": "Dress for Success",
+        "category": "Clothing",
+        "category_bg": "#B9DC9D",
+        "card_bg": "#C8E3B3",
+        "text_button_bg": "#79C23F",
+        "description": "Support individuals in their journey to employment by providing professional clothing. Your contribution will boost confidence and opportunity.",
+        "price": "$375",
+        "bio":"Good Clothing",
+        "rectangle":"https://imagetolink.com/ib/Tl3xdtx8OA.png"
+      },
+      { 
+        "id":"7",
+        "picture": "https://imagetolink.com/ib/lDY2hvAQYF.png",
+        "title": "Digital Learning Initiatives",
+        "category": "Education",
+        "category_bg": "#F4B9BB",
+        "card_bg": "#FFDEDF",
+        "text_button_bg": "#FF444A",
+        "description": "Empower students with digital learning tools. Your donation will provide access to computers, online courses, and educational technology.",
+        "price": "$245",
+        "bio":"Digital Learning",
+        "rectangle":"https://imagetolink.com/ib/cbllx34cNg.png"
+      },
+      {
+        "id":"8",
+        "picture": "https://imagetolink.com/ib/0wCDRQKjFZ.png",
+        "title": "Mental Health Awareness",
+        "category": "Health",
+        "category_bg": "#BBC4F6",
+        "card_bg": "#DCE5FA",
+        "text_button_bg": "#0052FF",
+        "description": "Support initiatives that raise awareness about mental health. Your contribution will fund counseling services, awareness campaigns, and support groups.",
+        "price": "$260",
+        "bio":"Mental Health",
+        "rectangle":"https://imagetolink.com/ib/QsLxcbi4s0.png"
+      },
+      {
+        "id":"9",
+        "picture": "https://imagetolink.com/ib/0wCDRQKjFZ.png",
+        "title": "Elderly Care Support",
+        "category": "Health",
+        "category_bg": "#BBC4F6",
+        "card_bg": "#DCE5FA",
+        "text_button_bg": "#0052FF",
+        "description": "Support programs that provide healthcare and companionship for the elderly. Your contribution will enhance the quality of life for seniors.",
+        "price":"Eldarly Care",
+        "rectangle":"https://imagetolink.com/ib/QsLxcbi4s0.png"
+      },
+      {
+        "id":"10",
+        "picture": "https://imagetolink.com/ib/lDY2hvAQYF.png",
+        "title": "Scholarship Fund for Girls",
+        "category": "Education",
+        "category_bg": "#F4B9BB",
+        "card_bg": "#FFDEDF",
+        "text_button_bg": "#FF444A",
+        "description": "Empower girls through education by providing scholarships. Your donation will break barriers and foster gender equality.",
+        "price": "$350",
+        "bio":"Scholarships",
+        "rectangle":"https://imagetolink.com/ib/cbllx34cNg.png"
+      },
+      {
+        "id":"11",
+        "picture": "https://imagetolink.com/ib/unVVRWINJs.png",
+        "title": "Back-to-School Drive",
+        "category": "Clothing",
+        "category_bg": "#B9DC9D",
+        "card_bg": "#C8E3B3",
+        "text_button_bg": "#79C23F",
+        "description": "Ensure every child is ready for school by supporting back-to-school clothing drives. Your contribution will create a positive start to the academic year.",
+        "price": "$225",
+        "bio":"School Dress",
+        "rectangle":"https://imagetolink.com/ib/Tl3xdtx8OA.png"
+
+      },
+      {
+        "id":"12",
+        "picture": "https://imagetolink.com/ib/uZ9opPvPQs.png",
+        "title": "Mobile Food Pantries",
+        "category": "Food",
+        "category_bg": "#FBCBBC",
+        "card_bg": "#FDE9E3",
+        "text_button_bg": "#F87147",
+        "description": "Bring food assistance directly to communities with mobile food pantries. Your donation will address food deserts and increase accessibility.",
+        "price": "$355",
+        "bio":"Mobile Food",
+        "rectangle":"https://imagetolink.com/ib/q6ZZlrVGHT.png"
+      }
+    ]
